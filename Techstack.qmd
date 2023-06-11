@@ -1,0 +1,15 @@
+---
+title: "Tech stack"
+---
+
+The AxeTech Modern Data Platform (AT-MDP) includes industry leading analytics and data management products.
+
+Key components of the platorm include:
+
+* Databricks
+* Azure hosted databases and storage
+* AWS hosgted databases and storage
+* Machine Learning and AI
+* Inegration with common BI apps like Tableu, Qlick, PowerBI and more
+
+AT-MDP is highly scalable and adaptale so it can quickly connect to your data and be used by your existing presentation tools.

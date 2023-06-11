@@ -1,0 +1,18 @@
+---
+title: "Support Model"
+---
+
+The Modern Data Platform was designed by AxeTech to be owned by the customer and hosted in their own cloud environment.
+
+As AT-MDP is scalable and flexible it can be used in a variety of support models.  The most common configuraiton is outlined below.
+
+| Role                    | Entity   |
+|:------------------------|:---------|
+|Design and build         |AxeTech   |
+|Installation             |AxeTech   |
+|Cloud hosting            |Customer  |
+|Backup                   |Customer  |
+|Support and maintenance  |Customer  |
+|Data analyts             |Customer  |
+
+Customers can request an alternative support model as part of the initial engagement process.

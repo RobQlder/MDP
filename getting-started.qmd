@@ -1,0 +1,47 @@
+---
+title: "Getting Started"
+---
+
+# Pre-requisites
+To ensure a smooth installation we recommend the following is in place before the scheduled installation.
+
+* Internal stakeholder are identified.
+* New cloud subscription created.
+* Installation accounts created for new subscription.
+* Details of datasets and locations captured.
+
+# Kick-off meeting
+*(duration 1/2 day)*
+
+Customer stakeholders meet with the AxeTech MDP installation team to work through details specific to the customer environment.
+Duration 2 hours
+
+# Offsite configuration
+*(duration 2 days)*
+
+Based on information collected during the kick-off meeting the MDP automated installation will be finalised.
+
+# Environment creation
+*(duration 2 days)*
+
+The AxeTech installation team will deploy the MDP into the customer's cloud subscription.
+
+# Data integration
+*(duration 2 days)*
+
+Data sources identified by the customer during kick-off will be connected to MDP.
+
+# Validation and testing
+*(duration 2 days)*
+
+The AxeTech installation team will work with customer data specialists to confirm the environment is ready for use.
+
+# Training
+*(duration 2 days)*
+
+To help customers familiarise themselves with the environment several training workshops are provided
+
+# Handover and go-live
+*(duration 1 day)*
+
+The customer takes ownership of the environment and commences the first analytics tasks.

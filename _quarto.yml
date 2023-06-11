@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Modern Data Platform Reference"
+  navbar:
+    logo: AT-logo-transparent.png
+    right:
+      - about.qmd
+  page-footer:
+    left: |
+      An [AxeTech](https://axetech.com.au) product
+    center:
+      - text: "SITE IN DRAFT - 2023"
+        
+  sidebar:
+    style: "docked"
+    contents:
+      - section: "Overview"
+        contents:
+          - index.qmd
+          - Techstack.qmd
+          - SupportModel.qmd
+          - architecture.qmd
+      - section: "Installation"
+        contents:
+          - getting-started.qmd
+          - subscription.qmd
+  
+format:
+  html:
+    theme:
+      light: lux
+      dark: vapor
+    toc: true
+    code-copy: true

@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "4c753f32"
+  },
+  "about.qmd": {
+    "about.html": "eed83da0"
+  },
+  "getting-started.qmd": {
+    "getting-started.html": "3c2ea7a6"
+  },
+  "Techstack.qmd": {
+    "Techstack.html": "f9d0c777"
+  },
+  "SupportModel.qmd": {
+    "SupportModel.html": "6a2be3fb"
+  },
+  "subscription.qmd": {
+    "subscription.html": "e8a0aba8"
+  },
+  "architecture.qmd": {
+    "architecture.html": "ea92d78a"
+  }
+}

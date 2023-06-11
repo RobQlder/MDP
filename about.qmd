@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+This site provides reference information for users of the AxeTech Modern Data Platform.
+
+For more information you can contact the team at AxeTech via their [website](https://axetech.com.au)
+

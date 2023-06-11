@@ -1,0 +1,17 @@
+---
+title: "Cloud tenant prep"
+---
+
+Execute these commands in your cloud environment to create a new subscription for AT-MDP.
+
+## Microsoft Azure
+
+```default
+insert some Azure code here
+```
+
+## Amazon Web Services
+
+```default
+insert some AWS code here
+```

@@ -1,0 +1,15 @@
+---
+title: "Intro"
+---
+
+The AxeTech Modern Data Platform (AT-MDP) provides a dedicated environment for organsiations to quickly gain insights from their data.
+
+Key benefits of the Modern Data Platform include:
+
+* AT-MDP can be built within the customers own cloud environment for complete control and ease of integration with data.
+* Automatically scales to your usuage and you only pay for what you use.
+* Is fast to setup allowing customers to start working with their data sooner.
+* Leverages industry leading vendors and methodologies.
+* Data security and governance structures are included to help manage how data is accessed.
+
+If you want a platform that provides access to your data quickly and securely so you can get on with exploring and understanding your business then AT-MDP is for you.

@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "SupportModel.html",
+    "href": "SupportModel.html",
+    "title": "Support Model",
+    "section": "",
+    "text": "The Modern Data Platform was designed by AxeTech to be owned by the customer and hosted in their own cloud environment.\nAs AT-MDP is scalable and flexible it can be used in a variety of support models. The most common configuraiton is outlined below.\n\n\n\nRole\nEntity\n\n\n\n\nDesign and build\nAxeTech\n\n\nInstallation\nAxeTech\n\n\nCloud hosting\nCustomer\n\n\nBackup\nCustomer\n\n\nSupport and maintenance\nCustomer\n\n\nData analyts\nCustomer\n\n\n\nCustomers can request an alternative support model as part of the initial engagement process."
+  },
+  {
+    "objectID": "subscription.html",
+    "href": "subscription.html",
+    "title": "Cloud tenant prep",
+    "section": "",
+    "text": "Execute these commands in your cloud environment to create a new subscription for AT-MDP."
+  },
+  {
+    "objectID": "subscription.html#microsoft-azure",
+    "href": "subscription.html#microsoft-azure",
+    "title": "Cloud tenant prep",
+    "section": "Microsoft Azure",
+    "text": "Microsoft Azure\ninsert some Azure code here"
+  },
+  {
+    "objectID": "subscription.html#amazon-web-services",
+    "href": "subscription.html#amazon-web-services",
+    "title": "Cloud tenant prep",
+    "section": "Amazon Web Services",
+    "text": "Amazon Web Services\ninsert some AWS code here"
+  },
+  {
+    "objectID": "Techstack.html",
+    "href": "Techstack.html",
+    "title": "Tech stack",
+    "section": "",
+    "text": "The AxeTech Modern Data Platform (AT-MDP) includes industry leading analytics and data management products.\nKey components of the platorm include:\n\nDatabricks\nAzure hosted databases and storage\nAWS hosgted databases and storage\nMachine Learning and AI\nInegration with common BI apps like Tableu, Qlick, PowerBI and more\n\nAT-MDP is highly scalable and adaptale so it can quickly connect to your data and be used by your existing presentation tools."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Intro",
+    "section": "",
+    "text": "The AxeTech Modern Data Platform (AT-MDP) provides a dedicated environment for organsiations to quickly gain insights from their data.\nKey benefits of the Modern Data Platform include:\n\nAT-MDP can be built within the customers own cloud environment for complete control and ease of integration with data.\nAutomatically scales to your usuage and you only pay for what you use.\nIs fast to setup allowing customers to start working with their data sooner.\nLeverages industry leading vendors and methodologies.\nData security and governance structures are included to help manage how data is accessed.\n\nIf you want a platform that provides access to your data quickly and securely so you can get on with exploring and understanding your business then AT-MDP is for you."
+  },
+  {
+    "objectID": "getting-started.html",
+    "href": "getting-started.html",
+    "title": "Getting Started",
+    "section": "",
+    "text": "Pre-requisites\nTo ensure a smooth installation we recommend the following is in place before the scheduled installation.\n\nInternal stakeholder are identified.\nNew cloud subscription created.\nInstallation accounts created for new subscription.\nDetails of datasets and locations captured.\n\n\n\nKick-off meeting\n(duration 1/2 day)\nCustomer stakeholders meet with the AxeTech MDP installation team to work through details specific to the customer environment. Duration 2 hours\n\n\nOffsite configuration\n(duration 2 days)\nBased on information collected during the kick-off meeting the MDP automated installation will be finalised.\n\n\nEnvironment creation\n(duration 2 days)\nThe AxeTech installation team will deploy the MDP into the customer’s cloud subscription.\n\n\nData integration\n(duration 2 days)\nData sources identified by the customer during kick-off will be connected to MDP.\n\n\nValidation and testing\n(duration 2 days)\nThe AxeTech installation team will work with customer data specialists to confirm the environment is ready for use.\n\n\nTraining\n(duration 2 days)\nTo help customers familiarise themselves with the environment several training workshops are provided\n\n\nHandover and go-live\n(duration 1 day)\nThe customer takes ownership of the environment and commences the first analytics tasks."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site provides reference information for users of the AxeTech Modern Data Platform.\nFor more information you can contact the team at AxeTech via their website"
+  },
+  {
+    "objectID": "architecture.html",
+    "href": "architecture.html",
+    "title": "Architecture",
+    "section": "",
+    "text": "A high level reference architecture for AT-MDP is provided below.\n\n\n\nArchitecture"
+  }
+]

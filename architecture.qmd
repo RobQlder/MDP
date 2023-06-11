@@ -1,0 +1,7 @@
+---
+title: "Architecture"
+---
+
+A high level reference architecture for AT-MDP is provided below.
+
+![Architecture](diagram.png)
