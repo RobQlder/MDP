@@ -14,7 +14,6 @@ To ensure a smooth installation we recommend the following is in place before th
 *(duration 1/2 day)*
 
 Customer stakeholders meet with the AxeTech MDP installation team to work through details specific to the customer environment.
-Duration 2 hours
 
 # Offsite configuration
 *(duration 2 days)*

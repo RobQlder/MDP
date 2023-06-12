@@ -1,0 +1,13 @@
+---
+title: "Roles"
+---
+
+To fully utilise AT-MDP there are several key roles that need to be fullfilled.
+
+|Role           |Resource  |Function
+|:--------------|:---------|:--------------------------------------------------------------------|
+|Data Engineer  |AxeTech   |Design and build a platform to ingest, process, and store data       |
+|Data Analyst   |Customer  |Understand the underlying dataset and it's relevance to the business |
+|Report Writer  |Customer  |Create dashboards and reports that provide business insights         |
+
+note: do we define Data scientist separatley?

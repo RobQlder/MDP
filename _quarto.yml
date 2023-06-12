@@ -22,6 +22,7 @@ website:
           - index.qmd
           - Techstack.qmd
           - SupportModel.qmd
+          - roles.qmd
           - architecture.qmd
       - section: "Installation"
         contents:
