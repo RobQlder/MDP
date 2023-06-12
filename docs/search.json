@@ -42,6 +42,13 @@
     "text": "The AxeTech Modern Data Platform (AT-MDP) provides a dedicated environment for organsiations to quickly gain insights from their data.\nKey benefits of the Modern Data Platform include:\n\nAT-MDP can be built within the customers own cloud environment for complete control and ease of integration with data.\nAutomatically scales to your usuage and you only pay for what you use.\nIs fast to setup allowing customers to start working with their data sooner.\nLeverages industry leading vendors and methodologies.\nData security and governance structures are included to help manage how data is accessed.\n\nIf you want a platform that provides access to your data quickly and securely so you can get on with exploring and understanding your business then AT-MDP is for you."
   },
   {
+    "objectID": "roles.html",
+    "href": "roles.html",
+    "title": "Roles",
+    "section": "",
+    "text": "To fully utilise AT-MDP there are several key roles that need to be fullfilled.\n\n\n\n\n\n\n\n\nRole\nResource\nFunction\n\n\n\n\nData Engineer\nAxeTech\nDesign and build a platform to ingest, process, and store data\n\n\nData Analyst\nCustomer\nUnderstand the underlying dataset and it’s relevance to the business\n\n\nReport Writer\nCustomer\nCreate dashboards and reports that provide business insights\n\n\n\nnote: do we define Data scientist separatley?"
+  },
+  {
     "objectID": "getting-started.html",
     "href": "getting-started.html",
     "title": "Getting Started",
