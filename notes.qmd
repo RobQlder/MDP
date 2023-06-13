@@ -1,0 +1,49 @@
+---
+title: "General notes"
+---
+
+* MDP is design to overcome limitations of Data Warehouse and Data Lake
+* Data Lakehouse is Open Architecture
+* Data Lakehouse is a "best of both" and combines benefits of a Data Lake (storing structured and unstructured data) with analtyical ability and controls of a Data Warehouse
+
+* Key features of Data Lakehouse
+    + Transaction support
+    + Schema enforcement and governance
+    + Data governance
+    + BI Support
+    + Decoupled storage from compute
+    + Open storage formats
+    + Support for diverse data types
+    + Support for diverse workloads
+    + end-to-end streaming
+
+* Key components
+    + Delta Lake
+    + Photon - "next generation" query engine
+    + Unity catalogue - security and governance
+    + Delta sharing - securely share data with external parties (Open source donated to Linux), replaces SFTP and secure file shares
+    + Delta Live tables - ETL framework for data pipelines
+    + Databricks workflows - end to end orchestration from ingestion, transformation, to processing
+    + MLflow - machine learning
+
+* Security architecture
+    + Control plane
+    + Data plane
+
+* Compliance
+    + SOC 2 type II
+    + ISO 27001
+    + ISO 27017
+    + ISO 27018
+    + FedRAMP High
+    + HITRUST
+    + HiPAA
+    + PCI
+
+* Two compute models
+    + Classic
+    + SQL Serverless compute (run by Databricks and totally has servers lol)
+
+* Get the right data at the right time to your Data analysts
+* Data scientists can be given access to "raw" data and use their propietry tools (not sure?).  There is a built in tool "Databricks for Data Science"
+* "Data streaming is one of the fastest growing workloads and is the future of all data processing"
